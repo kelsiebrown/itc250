@@ -1,0 +1,62 @@
+/*  
+    CSS for p1.php
+    ITC 250 - Summer 2018
+    P1: Temperature Converter
+    Group 3: Kelsie Brown, Ge Jin (Jim), Xing “Zack” Li
+
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #eee;
+    font-size: 100%;
+    font-family: 'Helvetica', sans-serif;
+    text-align: center;
+}
+
+.error {
+    color: #f00;
+    font-weight: 700;
+    font-size: 1.2em;
+}
+
+form {
+    background: #ddd;
+    color: #555;
+    border: 2px solid #555;
+    width: 400px;
+    margin: 20px auto;
+    padding: 3px;
+}
+
+input {
+    padding: 3px;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+
+label {
+    font-weight: 700;
+    padding: 3px;
+}
+
+#radio_buttons {
+    padding: 3px;
+}
+
+h1, h2, p {
+    margin-bottom: 5px;
+}
+
+h1 {
+    padding-top: 5px;
+}
+
+#input {
+    padding-bottom: 3px;
+}
