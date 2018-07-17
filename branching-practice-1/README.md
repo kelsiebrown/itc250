@@ -1,2 +1,5 @@
 # branching-practice-1
-Here is an edit to review
+
+ITC250
+Summer 2018
+P2: Branch, Pull, Merge, Repeat
